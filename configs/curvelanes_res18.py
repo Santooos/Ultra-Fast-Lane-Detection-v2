@@ -1,5 +1,5 @@
 dataset='CurveLanes'
-data_root= '' # Need to be modified before running
+data_root= "C:\Users\sant4\Desktop\Senior Year Project\Curvelanes" # Need to be modified before running
 epoch=50
 batch_size=8
 optimizer='SGD'
